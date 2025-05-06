@@ -166,35 +166,39 @@ LIMIT 10;
 
 
 ## Findings
-
-- **Customer Demographics**: The dataset includes customers from various age groups, with sales distributed across different categories such as Clothing , Beauty and Electronics.
-- **High-Value Transactions**: Several transactions had a total sale amount greater than 1000, indicating premium purchases.
- - **High Revenue Contributors**: Specific queries identify top customers by total sales, providing clarity on which customers contribute most to revenue.
-- **Sales Trends**: Monthly analysis shows variations in sales, helping identify peak seasons.
-- **Customer Insights**: The analysis identifies the top-spending customers and the most popular product categories.
-- **Sales Trends & Peaks**: Monthly and daily sales trends are explored, including identifying best-selling days, months, or shifts, which can be used for planning promotions and inventory.
+- **Customer Range**: Customers span various age groups with diverse category preferences like Clothing, Beauty, and Electronics.
+- **Big Purchases**: Some sales exceed 1000 units, indicating premium buying behavior.
+- **Top Buyers**: Key customers contribute significantly to overall revenue.
+- **Seasonal Sales**: Sales fluctuate monthly, highlighting peak periods.
+- **Popular Products**: Certain categories and items are consistently high-selling.
+- **Sales Patterns**: Daily and monthly trends help in planning promotions and stock.
 
 
 ## Reports
 
-- **Sales Summary**: A detailed report summarizing total sales, customer demographics, and category performance.
-- **Trend Analysis**: Insights into sales trends across different months and shifts.
-- **Customer Insights**: Reports on top customers and unique customer counts per category.
+- **Sales Overview**: Total sales, customer info, and category performance at a glance.
+- **Trends**: Monthly and shift-based sales patterns identified.
+- **Customer Insights**: Top customers and how many unique buyers each category has.
+
+
 
 ## Conclusion
 
-This project provides a solid foundation in SQL for data analysts, encompassing key areas such as database creation, data cleaning, exploratory analysis, and business-oriented querying. The analysis delivers valuable insights into sales performance, customer behavior, product trends, and seasonal patterns—enabling data-driven decision-making across various aspects of the business.
+This project offers a strong foundation in SQL for data analysts, covering database creation, data cleaning, exploratory analysis, and business-focused queries. It provides meaningful insights into sales performance, customer behavior, product trends, and seasonal patterns—supporting smarter, data-driven business decisions.
+
 
 ## How to Use
 
-1. **Clone the Repository**: Clone this project repository from GitHub.
-2. **Set Up the Database**: Run the SQL scripts provided in the `database_setup.sql` file to create and populate the database.
-3. **Run the Queries**: Use the SQL queries provided in the `sql_p1_query` file to perform your analysis.
-4. **Explore and Modify**: Feel free to modify the queries to explore different aspects of the dataset or answer additional business questions.
-
+1. **Clone the Repo**: Download or clone this project from GitHub.
+2. **Initialize the Database**: Use database_setup.sql to create and fill the database.
+3. **Analyze the Data**: Run queries from sql_p1_query.sql to explore the data.
+4. **Customize**: Modify or add queries to discover more insights based on your needs.
+   
 ## Author 
 
-This project is part of my portfolio, showcasing the SQL skills essential for data analyst roles
+This project is part of my learning journey and showcases core SQL skills useful for data analysis tasks.
 
 
-Thank you for your !
+Thank you for checking it out!
+
+
